@@ -1,0 +1,92 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Entradas",
+        "items": [
+          {
+            "id": 101,
+            "name": "Bruschetta",
+            "description": "Pan tostado con tomates, ajo, aceite de oliva y albahaca.",
+            "price": 5.00,
+            "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c"
+          },
+          {
+            "id": 102,
+            "name": "Alitas de Pollo",
+            "description": "Alitas de pollo fritas con salsa BBQ.",
+            "price": 8.50,
+            "image": "https://images.unsplash.com/photo-1596910198373-daf35909ae95"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Platos Principales",
+        "items": [
+          {
+            "id": 201,
+            "name": "Pizza Margherita",
+            "description": "Pizza clásica con salsa de tomate, mozzarella y albahaca.",
+            "price": 12.00,
+            "image": "https://images.unsplash.com/photo-1601925072201-f5ce7b53d151"
+          },
+          {
+            "id": 202,
+            "name": "Hamburguesa con Queso",
+            "description": "Hamburguesa de carne con queso cheddar, lechuga, tomate y cebolla.",
+            "price": 10.00,
+            "image": "https://images.unsplash.com/photo-1598188307811-2644cf9d9a22"
+          },
+          {
+            "id": 203,
+            "name": "Ensalada César",
+            "description": "Lechuga romana con aderezo César, crutones y queso parmesano.",
+            "price": 9.00,
+            "image": "https://images.unsplash.com/photo-1589307001380-8ee7d59ad761"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Postres",
+        "items": [
+          {
+            "id": 301,
+            "name": "Tiramisu",
+            "description": "Clásico postre italiano con capas de mascarpone, café y cacao.",
+            "price": 6.50,
+            "image": "https://images.unsplash.com/photo-1608668859017-cc6400e2f20f"
+          },
+          {
+            "id": 302,
+            "name": "Cheesecake",
+            "description": "Tarta de queso con base de galleta y cobertura de frutas.",
+            "price": 7.00,
+            "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Bebidas",
+        "items": [
+          {
+            "id": 401,
+            "name": "Coca Cola",
+            "description": "Refresco de cola.",
+            "price": 2.00,
+            "image": "https://images.unsplash.com/photo-1624280960247-e306da9d2830"
+          },
+          {
+            "id": 402,
+            "name": "Jugo de Naranja",
+            "description": "Jugo de naranja natural.",
+            "price": 3.50,
+            "image": "https://images.unsplash.com/photo-1611711010466-98e8bfa1c5f6"
+          }
+        ]
+      }
+    ]
+  }
+  
